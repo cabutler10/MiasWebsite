@@ -13,14 +13,12 @@ const IndexPage = () => (
     <p>Ich empfele jedem SUP zu machen!</p>
     <StaticImage
       src="../images/sup.jpg"
-      quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
       alt="A Gatsby astronaut"
       style={{ marginBottom: `1.45rem` }}
     />
     <StaticImage
       src="../images/yoga-sup.jpg"
-      quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
       alt="A Gatsby astronaut"
       style={{ marginBottom: `1.45rem` }}
